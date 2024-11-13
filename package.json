@@ -27,7 +27,7 @@
     "release-stage:current": "VERSION=$(node -p \"require('./package.json').version\") && ssh vertel@stage.kost.tv \"rm ~/stage.static.kost.tv/public_html/current && ln -s ~/stage.static.kost.tv/varta/releases/$VERSION/ ~/stage.static.kost.tv/public_html/current\""
   },
   "dependencies": {
-    "vue": "^2.6.10"
+    "vue": "^3.5.12"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
