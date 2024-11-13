@@ -76,7 +76,7 @@
     "mocha": "^10.2.0",
     "mochapack": "^2.1.4",
     "navigator.sendbeacon": "0.0.20",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.3.2",
     "path": "^0.12.7",
     "postcss-less-loader": "^0.1.0",
     "raw-loader": "^2.0.0",
