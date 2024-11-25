@@ -73,7 +73,7 @@
     "jsdom-global": "^3.0.2",
     "less": "^3.9.0",
     "mkdirp": "^1.0.4",
-    "mocha": "^10.2.0",
+    "mocha": "^10.8.2",
     "mochapack": "^2.1.4",
     "navigator.sendbeacon": "0.0.20",
     "node-fetch": "^3.3.2",
